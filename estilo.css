@@ -1,0 +1,24 @@
+*{
+    color: blue;
+    font-size: 30px;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+div{
+    color: red;
+}
+#Bloque-1{
+    color: aqua;
+}
+header{
+    border: 1px solid #000;
+    font-size: .575rem;
+}
+img{
+    border: 2px solid #000;
+    padding: 10px 20px 30px;
+    margin: 40px 30px 50px 20px;
+    display: block;
+}
